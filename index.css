@@ -1,0 +1,31 @@
+elment.style{
+
+}
+
+.top-bar-parrent-div{
+    display: flex;
+    box-shadow: 2px 1px 2px #eee;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.top-bar-navigation{
+    display: flex;
+    gap: 10px;
+}
+.top-bar-navigation-element{
+    align-items: center;
+}
+.top-bar-lower{
+    display: flex;
+    gap:10px;
+    justify-content: center;
+    background-color:#007fbb;
+    padding: 10px 50px 10px 50px;
+    box-shadow: 2px 1px 2px #eee;
+}
+.lower-navigation-item{
+    color: #eee;
+    cursor: pointer;
+    
+}
